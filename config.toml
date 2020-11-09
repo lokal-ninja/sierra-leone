@@ -1,0 +1,15 @@
+baseURL = "https://us.shoogle.net/sierra-leone"
+languageCode = "en"
+title = "Sierra Leone"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "sierra-leone"
