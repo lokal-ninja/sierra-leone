@@ -1,4 +1,5 @@
 ---
 title: "Dauda Sumowolo"
 url: /koidu-town/dauda-sumowolo/
+shop: tailor
 ---
