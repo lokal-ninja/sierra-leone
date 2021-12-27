@@ -1,5 +1,5 @@
 ---
 title: "salvonne bakery"
 url: /freetown/salvonne-bakery/
-shop: bakery
+shop: Bäckerei
 ---

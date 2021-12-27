@@ -1,6 +1,6 @@
 ---
 title: Gbentu
 url: /gbentu/
-latitude: 9.9415992
-longitude: -11.6443282
+latitude: 9.943
+longitude: -11.642
 ---

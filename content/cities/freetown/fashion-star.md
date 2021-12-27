@@ -1,5 +1,5 @@
 ---
 title: "fashion star"
 url: /freetown/fashion-star/
-shop: clothes
+shop: Kleidung
 ---

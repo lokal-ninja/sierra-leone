@@ -1,6 +1,6 @@
 ---
 title: Kailahun Town
 url: /kailahun-town/
-latitude: 
-longitude: 
+latitude: 8.281
+longitude: -10.371
 ---

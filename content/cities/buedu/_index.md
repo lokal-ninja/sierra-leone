@@ -1,6 +1,6 @@
 ---
 title: Buedu
 url: /buedu/
-latitude: 8.2797087
-longitude: -10.3714952
+latitude: 8.279
+longitude: -10.373
 ---

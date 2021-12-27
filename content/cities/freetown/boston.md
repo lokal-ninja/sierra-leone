@@ -1,5 +1,5 @@
 ---
 title: "Boston"
 url: /freetown/boston/
-shop: shop
+shop: Allgemein
 ---

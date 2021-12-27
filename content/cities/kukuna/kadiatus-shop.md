@@ -1,5 +1,5 @@
 ---
 title: "Kadiatus Shop"
 url: /kukuna/kadiatus-shop/
-shop: convenience
+shop: Lebensmittel
 ---

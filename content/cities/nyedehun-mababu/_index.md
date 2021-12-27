@@ -1,6 +1,6 @@
 ---
 title: Nyedehun Mababu
 url: /nyedehun-mababu/
-latitude: 
-longitude: 
+latitude: 8.203
+longitude: -10.482
 ---

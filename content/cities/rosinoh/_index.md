@@ -1,6 +1,6 @@
 ---
 title: Rosinoh
 url: /rosinoh/
-latitude: 
-longitude: 
+latitude: 8.971
+longitude: -12.997
 ---

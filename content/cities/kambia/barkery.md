@@ -1,5 +1,5 @@
 ---
 title: "Barkery"
 url: /kambia/barkery/
-shop: bakery
+shop: Bäckerei
 ---

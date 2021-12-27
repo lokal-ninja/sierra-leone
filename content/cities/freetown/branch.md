@@ -1,5 +1,5 @@
 ---
 title: "Branch"
 url: /freetown/branch/
-shop: supermarket
+shop: Supermarkt
 ---

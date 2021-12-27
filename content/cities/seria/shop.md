@@ -1,5 +1,5 @@
 ---
 title: "shop"
 url: /seria/shop/
-shop: convenience
+shop: Lebensmittel
 ---

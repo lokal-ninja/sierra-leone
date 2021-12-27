@@ -1,5 +1,5 @@
 ---
 title: "Mohamed Son Dorzon price"
 url: /jojoima/mohamed-son-dorzon-price/
-shop: convenience
+shop: Lebensmittel
 ---

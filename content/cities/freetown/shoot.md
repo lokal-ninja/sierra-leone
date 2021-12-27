@@ -1,5 +1,5 @@
 ---
 title: "shoot"
 url: /freetown/shoot/
-shop: clothes
+shop: Kleidung
 ---

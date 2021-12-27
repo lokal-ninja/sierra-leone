@@ -1,6 +1,6 @@
 ---
 title: Gbamandu
 url: /gbamandu/
-latitude: 
-longitude: 
+latitude: 8.641
+longitude: -10.667
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alpha business enterprise"
 url: /seria/alpha-business-enterprise/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suna's"
 url: /mobai/sunas/
-shop: kiosk
+shop: Kiosk
 ---

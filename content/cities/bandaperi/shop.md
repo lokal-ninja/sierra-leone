@@ -1,5 +1,5 @@
 ---
 title: "shop"
 url: /bandaperi/shop/
-shop: convenience
+shop: Lebensmittel
 ---

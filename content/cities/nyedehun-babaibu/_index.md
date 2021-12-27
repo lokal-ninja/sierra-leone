@@ -1,6 +1,6 @@
 ---
 title: Nyedehun Babaibu
 url: /nyedehun-babaibu/
-latitude: 
-longitude: 
+latitude: 8.203
+longitude: -10.483
 ---

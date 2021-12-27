@@ -1,5 +1,5 @@
 ---
 title: "Momoh's Enterprise"
 url: /kukuna/momohs-enterprise/
-shop: convenience
+shop: Lebensmittel
 ---

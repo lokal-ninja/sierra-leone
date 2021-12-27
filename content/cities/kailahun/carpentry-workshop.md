@@ -1,5 +1,5 @@
 ---
 title: "Carpentry workshop"
 url: /kailahun/carpentry-workshop/
-shop: furniture
+shop: Möbel
 ---

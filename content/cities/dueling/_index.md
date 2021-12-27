@@ -1,6 +1,6 @@
 ---
 title: Dueling
 url: /dueling/
-latitude: 
-longitude: 
+latitude: 8.28
+longitude: -10.371
 ---

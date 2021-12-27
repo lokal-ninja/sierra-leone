@@ -1,5 +1,5 @@
 ---
 title: "Augustine Tamba's Building"
 url: /buedu/augustine-tambas-building/
-shop: convenience
+shop: Lebensmittel
 ---

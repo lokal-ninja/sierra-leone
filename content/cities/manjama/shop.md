@@ -1,5 +1,5 @@
 ---
 title: "shop"
 url: /manjama/shop/
-shop: convenience
+shop: Lebensmittel
 ---

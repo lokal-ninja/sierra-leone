@@ -1,6 +1,6 @@
 ---
 title: Rogbray
 url: /rogbray/
-latitude: 
-longitude: 
+latitude: 9.121
+longitude: -12.933
 ---

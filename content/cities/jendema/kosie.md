@@ -1,5 +1,5 @@
 ---
 title: "Kosie"
 url: /jendema/kosie/
-shop: convenience
+shop: Lebensmittel
 ---

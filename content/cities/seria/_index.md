@@ -1,6 +1,6 @@
 ---
 title: Seria
 url: /seria/
-latitude: 9.4648821
-longitude: -10.923357900000001
+latitude: 9.465
+longitude: -10.923
 ---

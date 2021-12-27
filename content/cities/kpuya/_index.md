@@ -1,6 +1,6 @@
 ---
 title: Kpuya
 url: /kpuya/
-latitude: 
-longitude: 
+latitude: 8.462
+longitude: -10.345
 ---

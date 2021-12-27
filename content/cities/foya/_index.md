@@ -1,6 +1,6 @@
 ---
 title: Foya
 url: /foya/
-latitude: 7.557404000000001
-longitude: -12.5473426
+latitude: 8.286
+longitude: -10.563
 ---

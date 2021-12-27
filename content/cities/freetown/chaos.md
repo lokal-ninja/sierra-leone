@@ -1,5 +1,5 @@
 ---
 title: "Chaos"
 url: /freetown/chaos/
-shop: clothes
+shop: Kleidung
 ---

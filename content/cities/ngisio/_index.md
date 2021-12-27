@@ -1,6 +1,6 @@
 ---
 title: Ngisio
 url: /ngisio/
-latitude: 
-longitude: 
+latitude: 8.462
+longitude: -10.325
 ---

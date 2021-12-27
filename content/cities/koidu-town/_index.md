@@ -1,6 +1,6 @@
 ---
 title: Koidu town
 url: /koidu-town/
-latitude: 
-longitude: 
+latitude: 8.463
+longitude: -10.338
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marah Bucher's Hardware"
 url: /freetown/marah-buchers-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

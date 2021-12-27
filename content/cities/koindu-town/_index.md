@@ -1,6 +1,6 @@
 ---
 title: Koindu town
 url: /koindu-town/
-latitude: 
-longitude: 
+latitude: 8.461
+longitude: -10.336
 ---

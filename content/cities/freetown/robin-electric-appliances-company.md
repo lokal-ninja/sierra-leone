@@ -1,5 +1,5 @@
 ---
 title: "Robin Electric Appliances Company"
 url: /freetown/robin-electric-appliances-company/
-shop: electronics
+shop: Elektronik
 ---

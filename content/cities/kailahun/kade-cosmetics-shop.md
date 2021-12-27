@@ -1,5 +1,5 @@
 ---
 title: "Kade Cosmetics Shop"
 url: /kailahun/kade-cosmetics-shop/
-shop: beauty
+shop: Kosmetik
 ---

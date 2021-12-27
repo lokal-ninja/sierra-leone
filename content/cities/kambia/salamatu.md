@@ -1,5 +1,5 @@
 ---
 title: "salamatu"
 url: /kambia/salamatu/
-shop: general
+shop: Dorfladen
 ---

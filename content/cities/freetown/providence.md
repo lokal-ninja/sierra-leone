@@ -1,5 +1,5 @@
 ---
 title: "Providence"
 url: /freetown/providence/
-shop: stationary
+shop: Schreibwaren
 ---

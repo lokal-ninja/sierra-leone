@@ -1,6 +1,6 @@
 ---
 title: Konobendu
 url: /konobendu/
-latitude: 
-longitude: 
+latitude: 8.415
+longitude: -10.72
 ---

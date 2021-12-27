@@ -1,6 +1,6 @@
 ---
 title: Barukuya
 url: /barukuya/
-latitude: 
-longitude: 
+latitude: 9.457
+longitude: -12.634
 ---

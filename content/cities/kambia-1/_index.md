@@ -1,6 +1,6 @@
 ---
 title: kambia 1
 url: /kambia-1/
-latitude: 
-longitude: 
+latitude: 9.124
+longitude: -12.92
 ---

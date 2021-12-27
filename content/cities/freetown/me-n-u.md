@@ -1,5 +1,5 @@
 ---
 title: "Me N U"
 url: /freetown/me-n-u/
-shop: electronics
+shop: Elektronik
 ---

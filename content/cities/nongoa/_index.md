@@ -1,6 +1,6 @@
 ---
 title: Nongoa
 url: /nongoa/
-latitude: 8.505614000000001
-longitude: -10.3316846
+latitude: 8.508
+longitude: -10.335
 ---

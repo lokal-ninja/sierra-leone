@@ -1,5 +1,5 @@
 ---
 title: "mus-nan Enterprise"
 url: /freetown/mus-nan-enterprise/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
 url: /nongoa/kiosque/
-shop: kiosk
+shop: Kiosk
 ---

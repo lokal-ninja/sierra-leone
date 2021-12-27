@@ -1,5 +1,5 @@
 ---
 title: "nadi"
 url: /freetown/nadi/
-shop: bakery
+shop: Bäckerei
 ---

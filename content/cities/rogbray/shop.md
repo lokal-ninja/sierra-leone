@@ -1,5 +1,5 @@
 ---
 title: "shop"
 url: /rogbray/shop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Masofinia
 url: /masofinia/
-latitude: 
-longitude: 
+latitude: 9.08
+longitude: -11.036
 ---

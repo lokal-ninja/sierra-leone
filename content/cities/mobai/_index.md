@@ -1,6 +1,6 @@
 ---
 title: Mobai
 url: /mobai/
-latitude: 8.304946600000001
-longitude: -11.987567100000001
+latitude: 7.993
+longitude: -10.754
 ---

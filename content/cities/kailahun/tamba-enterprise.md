@@ -1,5 +1,5 @@
 ---
 title: "Tamba enterprise"
 url: /kailahun/tamba-enterprise/
-shop: kitchen
+shop: Küchen
 ---

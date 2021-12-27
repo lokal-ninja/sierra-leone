@@ -1,5 +1,5 @@
 ---
 title: "shop"
 url: /gbentu/shop/
-shop: convenience
+shop: Lebensmittel
 ---

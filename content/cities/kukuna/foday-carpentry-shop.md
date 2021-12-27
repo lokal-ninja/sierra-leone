@@ -1,5 +1,5 @@
 ---
 title: "Foday Carpentry Shop"
 url: /kukuna/foday-carpentry-shop/
-shop: furniture
+shop: Möbel
 ---
