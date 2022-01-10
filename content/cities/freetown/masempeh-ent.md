@@ -1,5 +1,5 @@
 ---
 title: "Masempeh Ent."
 url: /freetown/masempeh-ent/
-shop: Dorfladen
+shop: general
 ---

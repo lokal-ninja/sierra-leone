@@ -1,5 +1,5 @@
 ---
 title: "Mosque"
 url: /kailahun/mosque/
-shop: Drogerie
+shop: chemist
 ---

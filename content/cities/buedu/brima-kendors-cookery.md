@@ -1,5 +1,5 @@
 ---
 title: "Brima Kendor's Cookery"
 url: /buedu/brima-kendors-cookery/
-shop: Allgemein
+shop: shop
 ---

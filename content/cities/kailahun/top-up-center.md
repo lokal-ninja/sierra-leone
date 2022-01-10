@@ -1,5 +1,5 @@
 ---
 title: "Top Up Center"
 url: /kailahun/top-up-center/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
 url: /manowa/shopping/
-shop: Lebensmittel
+shop: convenience
 ---

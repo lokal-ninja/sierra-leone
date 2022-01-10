@@ -1,5 +1,5 @@
 ---
 title: "Two brothers enterprise"
 url: /kailahun/two-brothers-enterprise/
-shop: Allgemein
+shop: shop
 ---

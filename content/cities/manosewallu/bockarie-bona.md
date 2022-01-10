@@ -1,5 +1,5 @@
 ---
 title: "Bockarie Bona"
 url: /manosewallu/bockarie-bona/
-shop: Allgemein
+shop: shop
 ---

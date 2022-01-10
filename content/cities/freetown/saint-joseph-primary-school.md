@@ -1,5 +1,5 @@
 ---
 title: "Saint Joseph primary school"
 url: /freetown/saint-joseph-primary-school/
-shop: Bücher
+shop: books
 ---

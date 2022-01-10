@@ -1,5 +1,5 @@
 ---
 title: "White's boy enterprise"
 url: /kambia/whites-boy-enterprise/
-shop: Kleidung
+shop: clothes
 ---

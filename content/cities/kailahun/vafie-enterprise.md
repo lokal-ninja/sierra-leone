@@ -1,5 +1,5 @@
 ---
 title: "Vafie enterprise"
 url: /kailahun/vafie-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

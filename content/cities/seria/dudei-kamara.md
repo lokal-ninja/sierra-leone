@@ -1,5 +1,5 @@
 ---
 title: "Dudei kamara"
 url: /seria/dudei-kamara/
-shop: Lebensmittel
+shop: convenience
 ---

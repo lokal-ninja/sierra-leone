@@ -1,5 +1,5 @@
 ---
 title: "Krios"
 url: /manowa/krios-3/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Computer Shop"
 url: /freetown/computer-shop/
-shop: Eisenwaren
+shop: hardware
 ---

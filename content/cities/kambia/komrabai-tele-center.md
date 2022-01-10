@@ -1,5 +1,5 @@
 ---
 title: "Komrabai Tele Center"
 url: /kambia/komrabai-tele-center/
-shop: Allgemein
+shop: shop
 ---

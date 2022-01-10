@@ -1,5 +1,5 @@
 ---
 title: "Fayia's enterprise"
 url: /kailahun/fayias-enterprise/
-shop: Kleidung
+shop: clothes
 ---

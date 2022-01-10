@@ -1,5 +1,5 @@
 ---
 title: "Samura Kaikai's shop"
 url: /kailahun/samura-kaikais-shop/
-shop: Allgemein
+shop: shop
 ---

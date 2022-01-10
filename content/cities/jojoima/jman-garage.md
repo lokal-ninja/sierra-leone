@@ -1,5 +1,5 @@
 ---
 title: "JMan Garage"
 url: /jojoima/jman-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

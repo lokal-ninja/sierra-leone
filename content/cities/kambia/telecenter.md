@@ -1,5 +1,5 @@
 ---
 title: "Telecenter"
 url: /kambia/telecenter/
-shop: Handy
+shop: mobile phone
 ---

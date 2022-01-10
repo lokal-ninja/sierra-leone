@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /konobendu/shop-2/
-shop: Lebensmittel
+shop: convenience
 ---

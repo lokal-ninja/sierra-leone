@@ -1,5 +1,5 @@
 ---
 title: "Adama B Bundeh"
 url: /kailahun/adama-b-bundeh/
-shop: Lebensmittel
+shop: convenience
 ---

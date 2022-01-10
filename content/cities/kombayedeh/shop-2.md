@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /kombayedeh/shop-2/
-shop: Einkaufszentrum
+shop: mall
 ---

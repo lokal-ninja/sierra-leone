@@ -1,5 +1,5 @@
 ---
 title: "umarus tailoring shop"
 url: /gbentu/umarus-tailoring-shop/
-shop: Schneiderei
+shop: tailor
 ---

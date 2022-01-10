@@ -1,5 +1,5 @@
 ---
 title: "shop"
 url: /sandaru/shop-6/
-shop: Elektronik
+shop: electronics
 ---

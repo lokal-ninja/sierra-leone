@@ -1,5 +1,5 @@
 ---
 title: "Abdul Bah"
 url: /freetown/abdul-bah/
-shop: Fahrrad
+shop: bicycle
 ---

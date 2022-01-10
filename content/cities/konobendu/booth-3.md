@@ -1,5 +1,5 @@
 ---
 title: "Booth"
 url: /konobendu/booth-3/
-shop: Kleidung
+shop: clothes
 ---

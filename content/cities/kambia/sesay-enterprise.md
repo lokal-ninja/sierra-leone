@@ -1,5 +1,5 @@
 ---
 title: "Sesay Enterprise"
 url: /kambia/sesay-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

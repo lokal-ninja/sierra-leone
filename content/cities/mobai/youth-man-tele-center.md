@@ -1,5 +1,5 @@
 ---
 title: "Youth Man Tele Center"
 url: /mobai/youth-man-tele-center/
-shop: Lebensmittel
+shop: convenience
 ---

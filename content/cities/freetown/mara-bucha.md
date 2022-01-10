@@ -1,5 +1,5 @@
 ---
 title: "Mara bucha"
 url: /freetown/mara-bucha/
-shop: Videothek
+shop: video
 ---

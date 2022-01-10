@@ -1,5 +1,5 @@
 ---
 title: "GeomaJargoh"
 url: /kailahun/geomajargoh/
-shop: Allgemein
+shop: shop
 ---

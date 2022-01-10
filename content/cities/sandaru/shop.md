@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /sandaru/shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lamin Enterprise"
 url: /kombayedeh/lamin-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

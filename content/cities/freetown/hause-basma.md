@@ -1,5 +1,5 @@
 ---
 title: "Hause Basma"
 url: /freetown/hause-basma/
-shop: Autoteile
+shop: car parts
 ---

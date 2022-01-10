@@ -1,5 +1,5 @@
 ---
 title: "Krios"
 url: /pendembu/krios/
-shop: Lebensmittel
+shop: convenience
 ---

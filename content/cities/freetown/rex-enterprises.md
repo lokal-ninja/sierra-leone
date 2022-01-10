@@ -1,5 +1,5 @@
 ---
 title: "Rex enterprises"
 url: /freetown/rex-enterprises/
-shop: Supermarkt
+shop: supermarket
 ---

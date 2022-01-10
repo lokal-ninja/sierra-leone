@@ -1,5 +1,5 @@
 ---
 title: "Quick service system"
 url: /buedu/quick-service-system/
-shop: Lebensmittel
+shop: convenience
 ---

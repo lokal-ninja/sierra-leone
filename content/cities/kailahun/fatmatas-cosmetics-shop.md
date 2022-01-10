@@ -1,5 +1,5 @@
 ---
 title: "Fatmata's Cosmetics Shop"
 url: /kailahun/fatmatas-cosmetics-shop/
-shop: Kosmetik
+shop: beauty
 ---

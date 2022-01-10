@@ -1,5 +1,5 @@
 ---
 title: "Binta's entertainment"
 url: /kambia/bintas-entertainment/
-shop: Allgemein
+shop: shop
 ---

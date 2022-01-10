@@ -1,5 +1,5 @@
 ---
 title: "Mummy Jonnie"
 url: /kailahun/mummy-jonnie/
-shop: Allgemein
+shop: shop
 ---

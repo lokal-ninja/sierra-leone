@@ -1,5 +1,5 @@
 ---
 title: "Emmanuel Jimmy"
 url: /koindu/emmanuel-jimmy/
-shop: Kosmetik
+shop: beauty
 ---

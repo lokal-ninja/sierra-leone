@@ -1,5 +1,5 @@
 ---
 title: "Belgium Garrage"
 url: /pendembu/belgium-garrage/
-shop: Eisenwaren
+shop: hardware
 ---

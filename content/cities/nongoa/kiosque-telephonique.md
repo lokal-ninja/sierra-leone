@@ -1,5 +1,5 @@
 ---
 title: "Kiosque téléphonique"
 url: /nongoa/kiosque-telephonique/
-shop: Handy
+shop: mobile phone
 ---
