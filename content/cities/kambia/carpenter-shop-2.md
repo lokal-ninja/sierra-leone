@@ -1,5 +1,5 @@
 ---
 title: "Carpenter Shop"
-url: /kambia/carpenter-shop-2/
+url: /kambia/carpenter-shop/
 shop: furniture
 ---
