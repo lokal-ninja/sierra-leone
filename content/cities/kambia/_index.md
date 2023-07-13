@@ -1,6 +1,6 @@
 ---
 title: Kambia
 url: /kambia/
-latitude: 9.108
-longitude: -12.925
+latitude: 9.105
+longitude: -12.927
 ---
