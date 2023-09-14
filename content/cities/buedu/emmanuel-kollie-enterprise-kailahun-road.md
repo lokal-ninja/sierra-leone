@@ -1,5 +1,5 @@
 ---
 title: "Emmanuel Kollie Enterprise"
-url: /buedu/emmanuel-kollie-enterprise/
+url: /buedu/emmanuel-kollie-enterprise-kailahun-road/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
-url: /pendembu/shopping/
+url: /pendembu/shopping-2/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Kiddies"
-url: /freetown/the-kiddies/
-shop: clothes
+url: /freetown/the-kiddies-pademba-road/
+shop: convenience
 ---

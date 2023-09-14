@@ -1,5 +1,5 @@
 ---
 title: "Salon"
-url: /freetown/salon/
+url: /freetown/salon-adama-avenue/
 shop: convenience
 ---

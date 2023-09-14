@@ -1,5 +1,5 @@
 ---
 title: "Krios"
-url: /manowa/krios/
+url: /manowa/krios-kenema-road-3/
 shop: shop
 ---

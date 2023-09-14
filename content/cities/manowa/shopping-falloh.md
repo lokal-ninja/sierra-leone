@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
-url: /manowa/shopping/
+url: /manowa/shopping-falloh/
 shop: convenience
 ---

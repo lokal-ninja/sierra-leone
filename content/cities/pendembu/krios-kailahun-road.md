@@ -1,5 +1,5 @@
 ---
 title: "Krios"
-url: /pendembu/krios/
+url: /pendembu/krios-kailahun-road/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Booth"
-url: /konobendu/booth/
+url: /konobendu/booth-sandaru-road/
 shop: convenience
 ---

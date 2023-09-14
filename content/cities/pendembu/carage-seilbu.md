@@ -1,5 +1,5 @@
 ---
 title: "Carage"
-url: /pendembu/carage/
+url: /pendembu/carage-seilbu/
 shop: convenience
 ---
