@@ -1,6 +1,6 @@
 ---
 title: Sandaru
 url: /sandaru/
-latitude: 8.393
+latitude: 8.397
 longitude: -10.706
 ---
