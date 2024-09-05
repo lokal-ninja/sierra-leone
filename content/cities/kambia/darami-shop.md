@@ -1,5 +1,5 @@
 ---
 title: "Darami Shop"
 url: /kambia/darami-shop/
-shop: clothes
+shop: Kleidung
 ---

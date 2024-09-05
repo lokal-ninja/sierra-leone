@@ -1,5 +1,5 @@
 ---
 title: "Soso's Carpentry"
 url: /kambia/sosos-carpentry/
-shop: furniture
+shop: Möbel
 ---

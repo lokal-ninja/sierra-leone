@@ -1,5 +1,5 @@
 ---
 title: "Tailor"
 url: /pendembu/tailor/
-shop: tailor
+shop: Schneiderei
 ---

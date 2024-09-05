@@ -1,5 +1,5 @@
 ---
 title: "Bea's Investment"
 url: /freetown/beas-investment/
-shop: electronics
+shop: Elektronik
 ---

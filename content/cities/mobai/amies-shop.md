@@ -1,5 +1,5 @@
 ---
 title: "Amie's Shop"
 url: /mobai/amies-shop/
-shop: convenience
+shop: Lebensmittel
 ---

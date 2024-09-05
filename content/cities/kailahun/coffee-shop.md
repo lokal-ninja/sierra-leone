@@ -1,5 +1,5 @@
 ---
 title: "Coffee shop"
 url: /kailahun/coffee-shop/
-shop: coffee
+shop: Kaffee
 ---

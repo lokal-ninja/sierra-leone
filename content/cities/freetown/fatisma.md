@@ -1,5 +1,5 @@
 ---
 title: "FATISMA"
 url: /freetown/fatisma/
-shop: electronics
+shop: Elektronik
 ---

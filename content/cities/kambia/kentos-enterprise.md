@@ -1,5 +1,5 @@
 ---
 title: "Kentos Enterprise"
 url: /kambia/kentos-enterprise/
-shop: convenience
+shop: Lebensmittel
 ---

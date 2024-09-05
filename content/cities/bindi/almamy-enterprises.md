@@ -1,5 +1,5 @@
 ---
 title: "Almamy Enterprises"
 url: /bindi/almamy-enterprises/
-shop: shop
+shop: Allgemein
 ---

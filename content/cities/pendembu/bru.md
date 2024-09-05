@@ -1,5 +1,5 @@
 ---
 title: "BRU"
 url: /pendembu/bru/
-shop: bicycle
+shop: Fahrrad
 ---

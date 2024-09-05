@@ -1,5 +1,5 @@
 ---
 title: "stationary shop"
 url: /freetown/stationary-shop/
-shop: shop
+shop: Allgemein
 ---

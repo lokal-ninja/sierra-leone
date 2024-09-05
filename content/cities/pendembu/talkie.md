@@ -1,5 +1,5 @@
 ---
 title: "Talkie"
 url: /pendembu/talkie/
-shop: convenience
+shop: Lebensmittel
 ---

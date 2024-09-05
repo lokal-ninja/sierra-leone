@@ -1,5 +1,5 @@
 ---
 title: "I to Z Enterprises"
 url: /mobai/i-to-z-enterprises/
-shop: convenience
+shop: Lebensmittel
 ---

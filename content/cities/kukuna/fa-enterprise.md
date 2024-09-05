@@ -1,5 +1,5 @@
 ---
 title: "FA enterprise"
 url: /kukuna/fa-enterprise/
-shop: convenience
+shop: Lebensmittel
 ---

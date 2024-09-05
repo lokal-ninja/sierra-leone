@@ -1,5 +1,5 @@
 ---
 title: "stationary"
 url: /freetown/stationary/
-shop: bicycle
+shop: Fahrrad
 ---

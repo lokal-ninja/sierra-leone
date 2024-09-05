@@ -1,5 +1,5 @@
 ---
 title: "Mary's Saloon"
 url: /kambia/marys-saloon/
-shop: hairdresser
+shop: Friseur
 ---

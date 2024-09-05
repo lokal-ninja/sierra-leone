@@ -1,5 +1,5 @@
 ---
 title: "panasonic"
 url: /freetown/panasonic/
-shop: chemist
+shop: Drogerie
 ---

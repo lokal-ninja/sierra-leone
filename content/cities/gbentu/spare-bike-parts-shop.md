@@ -1,5 +1,5 @@
 ---
 title: "Spare Bike Parts Shop"
 url: /gbentu/spare-bike-parts-shop/
-shop: bicycle
+shop: Fahrrad
 ---

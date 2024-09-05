@@ -1,5 +1,5 @@
 ---
 title: "Sheku's enterprise"
 url: /kailahun/shekus-enterprise/
-shop: clothes
+shop: Kleidung
 ---

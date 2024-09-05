@@ -1,5 +1,5 @@
 ---
 title: "Hassah"
 url: /manosewallu/hassah/
-shop: shop
+shop: Allgemein
 ---

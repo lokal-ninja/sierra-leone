@@ -1,5 +1,5 @@
 ---
 title: "Kadiatu Sheriff's Shop"
 url: /kailahun/kadiatu-sheriffs-shop/
-shop: shop
+shop: Allgemein
 ---

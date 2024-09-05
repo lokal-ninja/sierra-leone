@@ -1,5 +1,5 @@
 ---
 title: "Haja"
 url: /freetown/haja/
-shop: convenience
+shop: Lebensmittel
 ---

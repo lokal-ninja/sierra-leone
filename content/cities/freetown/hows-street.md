@@ -1,5 +1,5 @@
 ---
 title: "How's street"
 url: /freetown/hows-street/
-shop: supermarket
+shop: Supermarkt
 ---

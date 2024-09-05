@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
 url: /jendema/shopping/
-shop: convenience
+shop: Lebensmittel
 ---

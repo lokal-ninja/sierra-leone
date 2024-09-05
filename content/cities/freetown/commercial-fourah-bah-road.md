@@ -1,5 +1,5 @@
 ---
 title: "commercial"
 url: /freetown/commercial-fourah-bah-road/
-shop: convenience
+shop: Lebensmittel
 ---
