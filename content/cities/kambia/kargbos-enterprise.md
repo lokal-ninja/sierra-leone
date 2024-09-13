@@ -1,5 +1,5 @@
 ---
 title: "Kargbos Enterprise"
 url: /kambia/kargbos-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

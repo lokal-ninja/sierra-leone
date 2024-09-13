@@ -1,5 +1,5 @@
 ---
 title: "Mr Magye"
 url: /kailahun/mr-magye/
-shop: Schneiderei
+shop: tailor
 ---

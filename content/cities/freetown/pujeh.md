@@ -1,5 +1,5 @@
 ---
 title: "Pujeh"
 url: /freetown/pujeh/
-shop: Drogerie
+shop: chemist
 ---

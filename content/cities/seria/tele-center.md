@@ -1,5 +1,5 @@
 ---
 title: "tele center"
 url: /seria/tele-center/
-shop: Allgemein
+shop: shop
 ---

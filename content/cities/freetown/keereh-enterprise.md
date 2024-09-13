@@ -1,5 +1,5 @@
 ---
 title: "Keereh Enterprise"
 url: /freetown/keereh-enterprise/
-shop: Allgemein
+shop: shop
 ---

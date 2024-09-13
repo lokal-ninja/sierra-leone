@@ -1,5 +1,5 @@
 ---
 title: "Sahr Bundor's Shop"
 url: /kailahun/sahr-bundors-shop/
-shop: Lebensmittel
+shop: convenience
 ---

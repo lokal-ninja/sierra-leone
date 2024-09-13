@@ -1,5 +1,5 @@
 ---
 title: "mamohed marah"
 url: /seria/mamohed-marah/
-shop: Lebensmittel
+shop: convenience
 ---

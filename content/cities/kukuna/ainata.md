@@ -1,5 +1,5 @@
 ---
 title: "Ainata"
 url: /kukuna/ainata/
-shop: Wasser
+shop: water
 ---

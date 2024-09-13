@@ -1,5 +1,5 @@
 ---
 title: "Alphajor Enterprise"
 url: /gbentu/alphajor-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

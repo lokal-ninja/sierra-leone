@@ -1,5 +1,5 @@
 ---
 title: "Mr Amara's shop"
 url: /pendembu/mr-amaras-shop/
-shop: Lebensmittel
+shop: convenience
 ---

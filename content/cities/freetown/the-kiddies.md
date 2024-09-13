@@ -1,5 +1,5 @@
 ---
 title: "The Kiddies"
 url: /freetown/the-kiddies/
-shop: Lebensmittel
+shop: convenience
 ---

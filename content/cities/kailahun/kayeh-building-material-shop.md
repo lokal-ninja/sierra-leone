@@ -1,5 +1,5 @@
 ---
 title: "Kayeh Building Material shop"
 url: /kailahun/kayeh-building-material-shop/
-shop: Baustoffe
+shop: trade
 ---

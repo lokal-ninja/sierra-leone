@@ -1,5 +1,5 @@
 ---
 title: "Konnilious Bundor's house"
 url: /buedu/konnilious-bundors-house/
-shop: Schneiderei
+shop: tailor
 ---

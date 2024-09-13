@@ -1,5 +1,5 @@
 ---
 title: "Juliana Lamin"
 url: /koindu-town/juliana-lamin/
-shop: Elektronik
+shop: electronics
 ---

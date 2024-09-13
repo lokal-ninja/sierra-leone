@@ -1,5 +1,5 @@
 ---
 title: "commercial"
 url: /freetown/commercial/
-shop: Lebensmittel
+shop: convenience
 ---

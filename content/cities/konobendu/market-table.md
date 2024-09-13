@@ -1,5 +1,5 @@
 ---
 title: "Market table"
 url: /konobendu/market-table/
-shop: Fisch
+shop: seafood
 ---

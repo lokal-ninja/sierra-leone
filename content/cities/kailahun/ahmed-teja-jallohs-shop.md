@@ -1,5 +1,5 @@
 ---
 title: "Ahmed Teja Jalloh's Shop"
 url: /kailahun/ahmed-teja-jallohs-shop/
-shop: Lebensmittel
+shop: convenience
 ---

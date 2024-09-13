@@ -1,5 +1,5 @@
 ---
 title: "Carriage"
 url: /kambia/carriage/
-shop: Autowerkstatt
+shop: car repair
 ---

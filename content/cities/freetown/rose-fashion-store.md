@@ -1,5 +1,5 @@
 ---
 title: "Rose Fashion Store"
 url: /freetown/rose-fashion-store/
-shop: Modehaus
+shop: boutique
 ---

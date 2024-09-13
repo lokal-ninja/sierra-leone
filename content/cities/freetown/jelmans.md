@@ -1,5 +1,5 @@
 ---
 title: "Jelman's"
 url: /freetown/jelmans/
-shop: Lebensmittel
+shop: convenience
 ---

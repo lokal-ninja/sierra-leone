@@ -1,5 +1,5 @@
 ---
 title: "Kalmoko's shop"
 url: /kailahun/kalmokos-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

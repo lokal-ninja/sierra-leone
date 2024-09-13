@@ -1,5 +1,5 @@
 ---
 title: "Telgloma Enterprise"
 url: /nyedehun-mababu/telgloma-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whole Saler Shop"
 url: /freetown/whole-saler-shop/
-shop: Kosmetik
+shop: beauty
 ---

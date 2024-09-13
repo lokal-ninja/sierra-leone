@@ -1,5 +1,5 @@
 ---
 title: "telefecent"
 url: /freetown/telefecent/
-shop: Elektronik
+shop: electronics
 ---

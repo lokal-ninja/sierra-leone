@@ -1,5 +1,5 @@
 ---
 title: "Jan In"
 url: /freetown/jan-in/
-shop: Drogerie
+shop: chemist
 ---

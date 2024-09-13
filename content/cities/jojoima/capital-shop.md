@@ -1,5 +1,5 @@
 ---
 title: "Capital Shop"
 url: /jojoima/capital-shop/
-shop: Allgemein
+shop: shop
 ---

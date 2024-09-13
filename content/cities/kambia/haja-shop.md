@@ -1,5 +1,5 @@
 ---
 title: "HAJA shop"
 url: /kambia/haja-shop/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Masabenrndu"
 url: /freetown/masabenrndu/
-shop: Bäckerei
+shop: bakery
 ---

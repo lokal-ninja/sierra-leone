@@ -1,5 +1,5 @@
 ---
 title: "City store"
 url: /freetown/city-store/
-shop: Lebensmittel
+shop: convenience
 ---

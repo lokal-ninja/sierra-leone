@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
 url: /manowa/shopping-nyawama/
-shop: Lebensmittel
+shop: convenience
 ---

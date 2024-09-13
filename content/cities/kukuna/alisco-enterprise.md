@@ -1,5 +1,5 @@
 ---
 title: "Alisco enterprise"
 url: /kukuna/alisco-enterprise/
-shop: Autowerkstatt
+shop: car repair
 ---

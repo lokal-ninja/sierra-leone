@@ -1,5 +1,5 @@
 ---
 title: "Shaban"
 url: /freetown/shaban/
-shop: Autoteile
+shop: car parts
 ---

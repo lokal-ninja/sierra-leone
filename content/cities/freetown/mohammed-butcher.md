@@ -1,5 +1,5 @@
 ---
 title: "Mohammed Butcher"
 url: /freetown/mohammed-butcher/
-shop: Kleidung
+shop: clothes
 ---

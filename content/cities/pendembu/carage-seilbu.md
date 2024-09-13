@@ -1,5 +1,5 @@
 ---
 title: "Carage"
 url: /pendembu/carage-seilbu/
-shop: Lebensmittel
+shop: convenience
 ---

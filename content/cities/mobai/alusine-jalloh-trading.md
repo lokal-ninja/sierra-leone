@@ -1,5 +1,5 @@
 ---
 title: "Alusine Jalloh Trading"
 url: /mobai/alusine-jalloh-trading/
-shop: Lebensmittel
+shop: convenience
 ---

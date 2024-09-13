@@ -1,5 +1,5 @@
 ---
 title: "Gbentu Market Center"
 url: /gbentu/gbentu-market-center/
-shop: Lebensmittel
+shop: convenience
 ---

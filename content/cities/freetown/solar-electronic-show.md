@@ -1,5 +1,5 @@
 ---
 title: "Solar Electronic Show"
 url: /freetown/solar-electronic-show/
-shop: Elektronik
+shop: electronics
 ---

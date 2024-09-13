@@ -1,5 +1,5 @@
 ---
 title: "Krios"
 url: /manowa/krios-kenema-road/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carafe"
 url: /kombayedeh/carafe/
-shop: Autowerkstatt
+shop: car repair
 ---

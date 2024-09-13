@@ -1,5 +1,5 @@
 ---
 title: "Garage"
 url: /kambia/garage/
-shop: Autohaus
+shop: car
 ---

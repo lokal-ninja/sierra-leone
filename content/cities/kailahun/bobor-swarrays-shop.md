@@ -1,5 +1,5 @@
 ---
 title: "Bobor Swarray's Shop"
 url: /kailahun/bobor-swarrays-shop/
-shop: Allgemein
+shop: shop
 ---

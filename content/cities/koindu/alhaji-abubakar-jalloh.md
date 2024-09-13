@@ -1,5 +1,5 @@
 ---
 title: "Alhaji Abubakar Jalloh"
 url: /koindu/alhaji-abubakar-jalloh/
-shop: Bäckerei
+shop: bakery
 ---

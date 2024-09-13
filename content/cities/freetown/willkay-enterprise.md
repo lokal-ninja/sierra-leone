@@ -1,5 +1,5 @@
 ---
 title: "Willkay Enterprise"
 url: /freetown/willkay-enterprise/
-shop: Elektronik
+shop: electronics
 ---
