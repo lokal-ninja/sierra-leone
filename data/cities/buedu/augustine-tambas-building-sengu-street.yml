@@ -1,11 +1,11 @@
 id: 290557034
-type: way
+type: node
 latitude: 8.28252
 longitude: -10.37414
 postcode: ""
 city: Buedu
-street: "Sengu Street"
-housenumber: 00
+street: Sengu Street
+housenumber: "00"
 phone: ""
 opening_hours: ""
 website: ""

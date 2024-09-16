@@ -1,11 +1,11 @@
 id: 454328412
-type: way
+type: node
 latitude: 9.12398
 longitude: -12.9159
 postcode: ""
 city: Kambia
-street: "hospital read"
-housenumber: 36
+street: hospital read
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

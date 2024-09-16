@@ -1,11 +1,11 @@
 id: 454324399
-type: way
+type: node
 latitude: 8.46159
 longitude: -10.33691
 postcode: ""
 city: Koindu
-street: "Fulla Town"
-housenumber: 8
+street: Fulla Town
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

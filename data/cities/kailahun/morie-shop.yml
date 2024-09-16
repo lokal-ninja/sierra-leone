@@ -1,11 +1,11 @@
 id: 454318265
-type: way
+type: node
 latitude: 8.2755
 longitude: -10.57454
 postcode: ""
 city: Kailahun
-street: "pendembu road"
-housenumber: 00
+street: pendembu road
+housenumber: "00"
 phone: ""
 opening_hours: ""
 website: ""

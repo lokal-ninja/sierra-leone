@@ -1,11 +1,11 @@
 id: 454327565
-type: way
+type: node
 latitude: 9.3978
 longitude: -12.66502
 postcode: ""
 city: Kukuna
-street: "center street"
-housenumber: 45
+street: center street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

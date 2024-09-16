@@ -1,11 +1,11 @@
 id: 454318264
-type: way
+type: node
 latitude: 8.27647
 longitude: -10.57336
 postcode: ""
 city: Kailahun
-street: "Council Road"
-housenumber: 232
+street: Council Road
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

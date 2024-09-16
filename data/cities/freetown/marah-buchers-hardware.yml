@@ -4,8 +4,8 @@ latitude: 8.48801
 longitude: -13.23771
 postcode: ""
 city: Freetown
-street: "test"
-housenumber: 3
+street: test
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

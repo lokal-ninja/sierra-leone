@@ -1,11 +1,11 @@
 id: 290529135
-type: way
+type: node
 latitude: 8.28192
 longitude: -10.36876
 postcode: ""
 city: Buedu
-street: "Kongor Street"
-housenumber: 00
+street: Kongor Street
+housenumber: "00"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 454330993
-type: way
+type: node
 latitude: 9.10717
 longitude: -12.92313
 postcode: ""
 city: Kambia
-street: "Phyllis"
-housenumber: 3
+street: Phyllis
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 273361103
-type: way
+type: node
 latitude: 8.27824
 longitude: -10.57181
 postcode: ""
 city: Kailahun
-street: "Mountain Cut Road"
-housenumber: 06
+street: Mountain Cut Road
+housenumber: "06"
 phone: ""
 opening_hours: ""
 website: ""

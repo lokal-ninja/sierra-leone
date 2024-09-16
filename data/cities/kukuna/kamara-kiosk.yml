@@ -1,11 +1,11 @@
 id: 454327564
-type: way
+type: node
 latitude: 9.39591
 longitude: -12.66601
 postcode: ""
 city: Kukuna
-street: "kombma"
-housenumber: no
+street: kombma
+housenumber: "no"
 phone: ""
 opening_hours: ""
 website: ""

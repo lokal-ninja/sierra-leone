@@ -1,11 +1,11 @@
 id: 274001473
-type: way
+type: node
 latitude: 8.2854
 longitude: -10.5641
 postcode: ""
 city: Kailahun
-street: "massanta section"
-housenumber: 00
+street: massanta section
+housenumber: "00"
 phone: ""
 opening_hours: ""
 website: ""
