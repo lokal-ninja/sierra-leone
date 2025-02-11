@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
-url: /manowa/shopping-nyayyawama/
+url: /manowa/shopping-nyawama/
 shop: convenience
 ---

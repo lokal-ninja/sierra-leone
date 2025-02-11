@@ -1,6 +1,6 @@
 ---
 title: Pendembu
 url: /pendembu/
-latitude: 8.096
-longitude: -10.694
+latitude: 8.104
+longitude: -10.695
 ---
