@@ -1,6 +1,6 @@
 ---
 title: Manjama
 url: /manjama/
-latitude: 8.603
-longitude: -10.697
+latitude: 8.605
+longitude: -10.696
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dia
 url: /dia/
-latitude: 8.384
-longitude: -10.41
+latitude: 8.385
+longitude: -10.416
 ---
