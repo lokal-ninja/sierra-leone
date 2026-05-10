@@ -1,6 +1,6 @@
 ---
 title: Freetown
 url: /freetown/
-latitude: 8.467
-longitude: -13.274
+latitude: 8.486
+longitude: -13.222
 ---

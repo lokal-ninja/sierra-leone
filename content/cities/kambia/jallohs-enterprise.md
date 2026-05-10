@@ -1,5 +1,5 @@
 ---
 title: "Jalloh's Enterprise"
 url: /kambia/jallohs-enterprise/
-shop: car repair
+shop: convenience
 ---
