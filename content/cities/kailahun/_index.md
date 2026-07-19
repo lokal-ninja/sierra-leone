@@ -1,6 +1,6 @@
 ---
 title: Kailahun
 url: /kailahun/
-latitude: 8.274
-longitude: -10.575
+latitude: 8.277
+longitude: -10.567
 ---
