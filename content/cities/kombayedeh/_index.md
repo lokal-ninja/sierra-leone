@@ -1,6 +1,6 @@
 ---
 title: Kombayedeh
 url: /kombayedeh/
-latitude: 8.785
+latitude: 8.784
 longitude: -10.709
 ---
